@@ -1,0 +1,18 @@
+FOREST:
+  - TYPE: "VANILLA"  # Use "VANILLA" for Minecraft vanilla items
+    MATERIAL: DIAMOND
+    AMOUNT: 3
+    CHANCE: 0.1
+  - TYPE: "ORAXEN"  # Use "ORAXEN" for Oraxen items
+    ORAXEN_ID: "custom_sword"
+    AMOUNT: 1
+    CHANCE: 0.05
+DEEP_DARK:
+  - TYPE: "VANILLA"
+    MATERIAL: GOLD_INGOT
+    AMOUNT: 5
+    CHANCE: 0.2
+  - TYPE: "ORAXEN"
+    ORAXEN_ID: "magic_wand"
+    AMOUNT: 1
+    CHANCE: 0.1

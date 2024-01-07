@@ -1,0 +1,6 @@
+name: MinecraftLootAlter # the plugins name as it should appear in the plugin list /pl
+version: 1.0 # the plugin's version
+author: slashroot
+main: me.slashroot.minecraftlootalter.Main
+load: STARTUP
+api-version: 1.20
